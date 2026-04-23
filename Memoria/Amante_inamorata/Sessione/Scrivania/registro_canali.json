@@ -1,0 +1,100 @@
+{
+    "web": {},
+    "docs": {},
+    "visione": {},
+    "udito": {},
+    "sistema": {
+        "1": {
+            "sorgente": "Fucile: SCANSIONE",
+            "file_fisico": "nastro_sistema_x1.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244799,
+            "timestamp": "23:47:19"
+        },
+        "2": {
+            "sorgente": "Scansione MEDIA",
+            "file_fisico": "nastro_sistema_x2.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244799,
+            "timestamp": "04:22:49"
+        },
+        "3": {
+            "sorgente": "Scansione MEDIA",
+            "file_fisico": "nastro_sistema_x3.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244799,
+            "timestamp": "04:26:44"
+        },
+        "4": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x4.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:17:24"
+        },
+        "5": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x5.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:18:04"
+        },
+        "6": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x6.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:18:05"
+        },
+        "7": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x7.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:18:06"
+        },
+        "8": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x8.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:18:06"
+        },
+        "9": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x9.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:18:06"
+        },
+        "10": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x10.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:18:28"
+        },
+        "11": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x11.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:18:28"
+        },
+        "12": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x12.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "05:18:28"
+        },
+        "13": {
+            "sorgente": "Scansione SCANSIONE|MEDIA",
+            "file_fisico": "nastro_sistema_x13.txt",
+            "totale_segmenti_y": 830,
+            "caratteri": 1244809,
+            "timestamp": "06:21:58"
+        }
+    },
+    "memoria": {}
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "sorgente_web": "https://speedsmart.net/",
+        "reperti": [
+            {
+                "id": 1,
+                "url_media": "https://speedsmart.net/images/2.0/app_hero.jpg",
+                "descrizione": "speed test app",
+                "estensione": "jpg",
+                "peso_bytes": 68711,
+                "tipo_media": "Immagini",
+                "percorso_locale": "../../Media/Immagini/ID1_app_hero.jpg",
+                "metadati": {
+                    "w": "1178",
+                    "h": "800"
+                }
+            }
+        ]
+    }
+]

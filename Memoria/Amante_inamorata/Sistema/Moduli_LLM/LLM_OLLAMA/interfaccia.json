@@ -1,0 +1,10 @@
+{
+ "nome_modello": "OLLAMA_DEEPSEEK_V2",
+ "url_ingresso": "http://localhost:11434/api/generate",
+ "metodo_iniezione": "API_REST",
+ "configurazione_hardware": {
+ "modello_riferimento": "deepseek-coder-v2:lite",
+ "timeout_stabilità": 5.0
+ }
+}
+

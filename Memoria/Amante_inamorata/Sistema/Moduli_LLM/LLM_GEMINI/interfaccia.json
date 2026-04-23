@@ -1,0 +1,16 @@
+{
+    "nome_modello": "GEMINI_PRO",
+    "url_ingresso": "https://gemini.google.com/app",
+    "selettori_dom": {
+        "box_input": "css:div[role='textbox']",
+        "tasto_invio": "css:button[aria-label='Invia messaggio']",
+        "bolle_risposta": "tag:message-content",
+        "indicatore_caricamento": "css:.generating",
+        "metodo_iniezione": "CDP_INSERT"
+    },
+    "configurazione_hardware": {
+        "porta_locale": 9222,
+        "timeout_stabilità": 2.0,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "/home/somarello/test_gradio/myapp/agent_e/bunker/Media/Documenti/disp_statica_3.pdf": {
+        "descrizione": "Acquisito automaticamente dal web",
+        "tipo": "documento",
+        "timestamp": "2026-03-15 20:18:56",
+        "dimensione": "322.86 KB"
+    },
+    "/home/somarello/test_gradio/myapp/agent_e/bunker/Media/archivio/Diario_Comandante.txt": {
+        "desc": "Nota generata da Elsa",
+        "time": 1773636176.4879682
+    },
+    "/home/somarello/test_gradio/myapp/agent_e/bunker/Media/archivio/Nome.txt": {
+        "desc": "Nota generata da Elsa",
+        "time": 1773806313.4806836
+    },
+    "/home/somarello/test_gradio/myapp/agent_e/bunker/Media/archivio/Notte_Eterna.txt": {
+        "desc": "Nota generata da Elsa",
+        "time": 1773884850.2152953
+    },
+    "/home/somarello/test_gradio/myapp/agent_e/bunker/Media/archivio/Casa.txt": {
+        "desc": "Nota generata da Elsa",
+        "time": 1773937800.3234355
+    }
+}
