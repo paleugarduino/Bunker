@@ -44,3 +44,21 @@ Le dipendenze Python principali includono:
 3. Avvia l'interfaccia principale:
 ```bash
 python bunker_gui.py
+
+> $ cat requirements.txt
+
+requests
+pytz
+numpy
+aiohttp
+pydantic
+prometheus_client
+sentence-transformers
+DrissionPage
+customtkinter
+colorama
+gradio_client
+psutil
+Pillow
+
+pip install -r requirements.txt
