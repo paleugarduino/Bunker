@@ -43,8 +43,10 @@ Le dipendenze Python principali includono:
 2. Installa le librerie richieste.
 3. Avvia l'interfaccia principale:
 ```bash
+
 python bunker_gui.py
 
+Per le dipendenze : 
 > $ cat requirements.txt
 
 requests
